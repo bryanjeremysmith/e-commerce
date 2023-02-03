@@ -38,15 +38,19 @@ To run the server, run:
 <pre>node server.js</pre>
 
 Getting Started Walkthrough
+
 [Untitled_ Feb 3, 2023 11_13 AM.webm](https://user-images.githubusercontent.com/113069298/216698654-99f291bd-a4f0-49c5-8921-af39b735074c.webm)
 
 Tags Walkthrough
+
 [Untitled_ Feb 3, 2023 11_56 AM.webm](https://user-images.githubusercontent.com/113069298/216698682-d73e76b7-1955-4a7e-b575-c0cd7c036f60.webm)
 
 Categories Walkthrough
+
 [Untitled_ Feb 3 2023 12_21 PM.webm](https://user-images.githubusercontent.com/113069298/216703224-de4b933e-baaa-4c23-817e-223a4445bc86.webm)
 
 Products Walkthrough
+
 [Products Walkthrough.webm](https://user-images.githubusercontent.com/113069298/216704977-9a18dcdb-420d-4d9c-aa46-422ceb5f400d.webm)
 
 ## License 
