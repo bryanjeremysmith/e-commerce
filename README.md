@@ -37,6 +37,18 @@ To run the server, run:
 
 <pre>node server.js</pre>
 
+Getting Started Walkthrough
+[Untitled_ Feb 3, 2023 11_13 AM.webm](https://user-images.githubusercontent.com/113069298/216698654-99f291bd-a4f0-49c5-8921-af39b735074c.webm)
+
+Tags Walkthrough
+[Untitled_ Feb 3, 2023 11_56 AM.webm](https://user-images.githubusercontent.com/113069298/216698682-d73e76b7-1955-4a7e-b575-c0cd7c036f60.webm)
+
+Categories Walkthrough
+[Untitled_ Feb 3 2023 12_21 PM.webm](https://user-images.githubusercontent.com/113069298/216703224-de4b933e-baaa-4c23-817e-223a4445bc86.webm)
+
+Products Walkthrough
+[Untitled_ Feb 3 2023 12_28 PM.webm](https://user-images.githubusercontent.com/113069298/216704433-d1a50c33-9d90-49b6-b37c-43ae4cd868ff.webm)
+
 ## License 
 
 This project is covered under the following license: MIT License
