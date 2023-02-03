@@ -47,7 +47,7 @@ Categories Walkthrough
 [Untitled_ Feb 3 2023 12_21 PM.webm](https://user-images.githubusercontent.com/113069298/216703224-de4b933e-baaa-4c23-817e-223a4445bc86.webm)
 
 Products Walkthrough
-[Products Walkthrough](https://user-images.githubusercontent.com/113069298/216704433-d1a50c33-9d90-49b6-b37c-43ae4cd868ff.webm)
+[Products Walkthrough.webm](https://user-images.githubusercontent.com/113069298/216704977-9a18dcdb-420d-4d9c-aa46-422ceb5f400d.webm)
 
 ## License 
 
